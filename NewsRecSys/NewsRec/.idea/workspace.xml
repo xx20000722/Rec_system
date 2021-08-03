@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49a97062-c57b-4769-bfa2-ae69150b372f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/build.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/build.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/check-versions.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/check-versions.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/vue-loader.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/vue-loader.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/webpack.base.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/webpack.base.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/build/webpack.prod.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/build/webpack.prod.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/config/dev.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/config/dev.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/config/prod.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/config/prod.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/config/test.env.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/config/test.env.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/src/assets/js/linkBase.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/src/assets/js/linkBase.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/src/axios/axios.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/src/axios/axios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/src/axios/fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/src/axios/fetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/custom-assertions/elementCount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/nightwatch.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/nightwatch.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/runner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/runner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/specs/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/e2e/specs/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/jest.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/jest.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/setup.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/setup.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/specs/HelloWorld.spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/../NewsRec-Vue/test/unit/specs/HelloWorld.spec.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/NewsRec.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/NewsRec.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewsRec/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewsRec/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0004_newsim.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/migrations/0004_newsim.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0005_newhot.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/migrations/0005_newhot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0006_newtag.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/migrations/0006_newtag.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0007_auto_20181212_0041.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/migrations/0007_auto_20181212_0041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/migrations/0008_newbrowse.py" beforeDir="false" afterPath="$PROJECT_DIR$/news/migrations/0008_newbrowse.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/4.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/6.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/data/keywords/7.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/data/keywords/7.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/files/newsrec.sql" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/files/newsrec.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/files/stop_words.txt" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/files/stop_words.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/tools/NewsCorrelationCalculation.py" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/tools/NewsCorrelationCalculation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/tools/NewsHotValueCal.py" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/tools/NewsHotValueCal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/z-others/tools/NewsTagsCorres.py" beforeDir="false" afterPath="$PROJECT_DIR$/z-others/tools/NewsTagsCorres.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/NewsRec$NewsCorrelationCalculation.coverage" NAME="NewsCorrelationCalculation Coverage Results" MODIFIED="1550366633820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z-others/tools" />
+    <SUITE FILE_PATH="coverage/NewsRec$NewsTagsCorres.coverage" NAME="NewsTagsCorres Coverage Results" MODIFIED="1544713662570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z-others/tools" />
+    <SUITE FILE_PATH="coverage/NewsRec$transform.coverage" NAME="transform Coverage Results" MODIFIED="1544285985173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z-others/tools" />
+    <SUITE FILE_PATH="coverage/NewsRec$NewsHotValueCal.coverage" NAME="NewsHotValueCal Coverage Results" MODIFIED="1544639359723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z-others/tools" />
+    <SUITE FILE_PATH="coverage/NewsRec$NewsKeyWordsSelect.coverage" NAME="NewsKeyWordsSelect Coverage Results" MODIFIED="1550366265896" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/z-others/tools" />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1251988673">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.38" value="2" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="md" value="2" />
+          <entry key="py" value="34" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Markdown" value="2" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="md" value="92" />
+          <entry key="py" value="3701" />
+          <entry key="txt" value="67" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="92" />
+          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="Python" value="3701" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-2060806370">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.3" value="4" />
+          <entry key="project.open.time.37" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="7711" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="7711" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="104" />
+          <entry key="txt" value="22" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="104" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewsRec/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="80" column="18" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tools/NewsKeyWordsSelect.py" />
+        <option value="$PROJECT_DIR$/NewsRec/__init__.py" />
+        <option value="$PROJECT_DIR$/news/urls.py" />
+        <option value="$PROJECT_DIR$/z-others/data/tomysql/3.txt" />
+        <option value="$PROJECT_DIR$/z-others/tools/transform.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/z-others/requirement.txt" />
+        <option value="$PROJECT_DIR$/index/urls.py" />
+        <option value="$PROJECT_DIR$/news/admin.py" />
+        <option value="$PROJECT_DIR$/NewsRec/urls.py" />
+        <option value="$PROJECT_DIR$/news/views.py" />
+        <option value="$PROJECT_DIR$/z-others/tools/NewsHotValueCal.py" />
+        <option value="$PROJECT_DIR$/z-others/tools/NewsKeyWordsSelect.py" />
+        <option value="$PROJECT_DIR$/z-others/tools/NewsCorrelationCalculation.py" />
+        <option value="$PROJECT_DIR$/z-others/tools/NewsTagsCorres.py" />
+        <option value="$PROJECT_DIR$/index/views.py" />
+        <option value="$PROJECT_DIR$/news/models.py" />
+        <option value="$PROJECT_DIR$/news/__init__.py" />
+        <option value="$PROJECT_DIR$/NewsRec/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="476" />
+    <option name="y" value="6" />
+    <option name="width" value="1364" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NewsRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsRec" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsRec" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NewsRec" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NewsRec" type="462c0819:PsiDirectoryNode" />
+              <item name="NewsRec" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\NewsRec\news" />
+      <recent name="E:\github\NewsRec\index" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\github\NewsRec\z-others\files" />
+      <recent name="E:\github\NewsRec\z-others\data" />
+      <recent name="E:\github\NewsRec\z-others" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.NewsCorrelationCalculation">
+    <configuration name="NewsCorrelationCalculation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewsRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z-others/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z-others/tools/NewsCorrelationCalculation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="NewsHotValueCal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewsRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z-others/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z-others/tools/NewsHotValueCal.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="NewsKeyWordsSelect" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewsRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z-others/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z-others/tools/NewsKeyWordsSelect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="NewsTagsCorres" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewsRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z-others/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z-others/tools/NewsTagsCorres.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="transform" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="NewsRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/z-others/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/z-others/tools/transform.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="NewsRec" type="Python.DjangoServer" factoryName="Django server">
+      <module name="NewsRec" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.NewsKeyWordsSelect" />
+      <item itemvalue="Python.transform" />
+      <item itemvalue="Python.NewsHotValueCal" />
+      <item itemvalue="Python.NewsTagsCorres" />
+      <item itemvalue="Python.NewsCorrelationCalculation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.NewsCorrelationCalculation" />
+        <item itemvalue="Python.NewsKeyWordsSelect" />
+        <item itemvalue="Python.NewsTagsCorres" />
+        <item itemvalue="Python.NewsHotValueCal" />
+        <item itemvalue="Python.transform" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49a97062-c57b-4769-bfa2-ae69150b372f" name="Default Changelist" comment="" />
+      <created>1543943314152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543943314152</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16138126" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.31034482" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34154353" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32840723" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.30424243" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34154353" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20045386" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32840723" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39901477" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.44006568" />
+      <window_info anchor="bottom" id="Event Log" order="11" weight="0.31034482" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32840723" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/NewsRec/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/data/tomysql/3.txt" />
+    <entry file="file://$PROJECT_DIR$/z-others/tools/transform.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/143713221/builtins.py" />
+    <entry file="file://D:/Program Files/Python3/Lib/json/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files/Python3/Lib/site-packages/jieba/analyse/tfidf.py" />
+    <entry file="file://D:/Program Files/Python3/Lib/site-packages/jieba/analyse/__init__.py" />
+    <entry file="file://D:/Program Files/Python3/Lib/site-packages/pymysql/__init__.py" />
+    <entry file="file://D:/Program Files/Python3/Lib/site-packages/pymysql/connections.py" />
+    <entry file="file://D:/Program Files/Python3/Lib/site-packages/django/http/response.py" />
+    <entry file="file://$PROJECT_DIR$/z-others/tools/NewsKeyWordsSelectNew.py" />
+    <entry file="file://$PROJECT_DIR$/z-others/data/keywords/2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/data/correlation/3.txt" />
+    <entry file="file://$PROJECT_DIR$/z-others/data/correlation/7.txt" />
+    <entry file="file://$PROJECT_DIR$/z-others/data/correlation/2.txt" />
+    <entry file="file://$PROJECT_DIR$/z-others/data/correlation/1.txt" />
+    <entry file="file://$PROJECT_DIR$/news/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsRec/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="13" selection-end-line="1" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="5" column="8" lean-forward="true" selection-start-line="4" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" selection-start-line="60" selection-end-line="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsRec/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="15" selection-start-line="15" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/data/keywords/7.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="98" column="24" selection-start-line="98" selection-start-column="8" selection-end-line="98" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/tools/NewsHotValueCal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/files/requirement.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/tools/NewsKeyWordsSelect.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/data/keywords/1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-777">
+          <caret line="2" column="32" lean-forward="true" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/tools/NewsTagsCorres.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="700">
+          <caret line="37" column="57" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/models.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="81" column="47" lean-forward="true" selection-start-line="81" selection-start-column="47" selection-end-line="81" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/z-others/tools/NewsCorrelationCalculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-257">
+          <caret line="17" column="50" selection-start-line="17" selection-start-column="50" selection-end-line="17" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsRec/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="80" column="18" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
